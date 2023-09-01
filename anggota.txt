@@ -1,4 +1,4 @@
 leader: adejahja
 anggota: Johan
-anggota: apri
-anggota: dayat
+anggota: apriyanto
+anggota: hidayatullah
